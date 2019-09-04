@@ -10,7 +10,7 @@ data:
   ugly: "maybe"
   too: "much"
   very: "very"
-  toovery: "tootooverymuchalready"
+  toovery: "tootooverymuchalreadyruppaready"
 ---
 
 apiVersion: apps/v1beta2
