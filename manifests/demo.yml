@@ -9,6 +9,7 @@ data:
   good: "true"
   bad: "false"
   ugly: "maybe"
+  too: "much"
 ---
 
 apiVersion: apps/v1beta2
