@@ -8,7 +8,7 @@ data:
   foo: "bar"
   good: "true"
   bad: "false"
-
+  ugly: "maybe"
 ---
 
 apiVersion: apps/v1beta2
