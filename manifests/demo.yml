@@ -11,7 +11,7 @@ data:
   ugly: "maybe"
   too: "much"
   very: "very"
-  toovery: "toovery"
+  toovery: "tootoovery"
 ---
 
 apiVersion: apps/v1beta2
